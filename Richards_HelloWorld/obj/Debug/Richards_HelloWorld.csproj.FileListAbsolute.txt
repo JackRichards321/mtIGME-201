@@ -1,0 +1,7 @@
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\bin\Debug\Richards_HelloWorld.exe.config
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\bin\Debug\Richards_HelloWorld.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\bin\Debug\Richards_HelloWorld.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\obj\Debug\Richards_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\obj\Debug\Richards_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\obj\Debug\Richards_HelloWorld.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Richards_HelloWorld\obj\Debug\Richards_HelloWorld.pdb
