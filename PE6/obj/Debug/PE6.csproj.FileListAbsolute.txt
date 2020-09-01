@@ -1,0 +1,7 @@
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\bin\Debug\PE6.exe.config
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\bin\Debug\PE6.exe
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\bin\Debug\PE6.pdb
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\obj\Debug\PE6.csprojAssemblyReference.cache
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\obj\Debug\PE6.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\obj\Debug\PE6.exe
+C:\Users\Jack\Source\Repos\github\JackRichards321\myIGME-201\PE6\obj\Debug\PE6.pdb
