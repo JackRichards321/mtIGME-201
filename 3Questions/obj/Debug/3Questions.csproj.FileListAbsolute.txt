@@ -1,0 +1,7 @@
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\bin\Debug\3Questions.exe.config
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\bin\Debug\3Questions.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\bin\Debug\3Questions.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\obj\Debug\3Questions.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\obj\Debug\3Questions.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\obj\Debug\3Questions.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\3Questions\obj\Debug\3Questions.pdb
