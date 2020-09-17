@@ -1,0 +1,2 @@
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache

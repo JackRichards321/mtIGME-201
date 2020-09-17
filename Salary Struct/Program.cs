@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _Salary
+namespace Salary_Struct
 {
     class Program
     {
@@ -16,7 +16,7 @@ namespace _Salary
             Console.WriteLine("What is your name? ");
             sName = Console.ReadLine();
 
-            if (GiveRaise(sName,  ref dSalary))
+            if (GiveRaise(sName, ref dSalary))
             {
                 Console.WriteLine("Congratulations, you got a raise! Your new salary is " + dSalary);
             }
@@ -36,6 +36,25 @@ namespace _Salary
             else
             {
                 return false;
+            }
+        }
+
+        struct Employee
+        {
+            public string sName;
+            public double dSalary;
+
+            public static bool giveRaise(Employee emp)
+            {
+                if (emp.sName.ToLower() == "jack")
+                {
+                    emp.dSalary += 19999;
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
         }
     }
