@@ -1,0 +1,12 @@
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\bin\Debug\UIFromHell.exe.config
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\bin\Debug\UIFromHell.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\bin\Debug\UIFromHell.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.Properties.Resources.resources
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.GenerateResource.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.quiz.resources
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.page1.resources
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\UIFromHell\obj\Debug\UIFromHell.Form3.resources

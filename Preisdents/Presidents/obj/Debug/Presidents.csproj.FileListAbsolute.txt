@@ -1,0 +1,10 @@
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\bin\Debug\Presidents.exe.config
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\bin\Debug\Presidents.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\bin\Debug\Presidents.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.Properties.Resources.resources
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.csproj.GenerateResource.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.exe
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.pdb
+C:\Users\Jack\source\repos\github\JackRichards321\myIGME-201\Preisdents\Presidents\obj\Debug\Presidents.PresidentsForm.resources
